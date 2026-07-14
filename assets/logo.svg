@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <defs>
+    <linearGradient id="gearGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5A623"/>
+      <stop offset="45%" stop-color="#E67E22"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+    <linearGradient id="gGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD27A"/>
+      <stop offset="100%" stop-color="#E67E22"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <circle cx="100" cy="100" r="92" fill="#0a0a0c"/>
+  <g filter="url(#glow)" transform="translate(100 100)">
+    <path fill="url(#gearGrad)" d="
+      M0-78 L12-78 L16-62 A58 58 0 0 1 35-54 L48-64 L58-54 L48-41 A58 58 0 0 1 54-35 L64-48 L74-38 L64-25 A58 58 0 0 1 62-16 L78-12 L78 0 L62 12 A58 58 0 0 1 54 35 L64 48 L54 58 L41 48 A58 58 0 0 1 16 62 L12 78 L0 78 L-12 78 L-16 62 A58 58 0 0 1 -35 54 L-48 64 L-58 54 L-48 41 A58 58 0 0 1 -54 35 L-64 48 L-74 38 L-64 25 A58 58 0 0 1 -62 16 L-78 12 L-78 0 L-62 -12 A58 58 0 0 1 -54 -35 L-64 -48 L-54 -58 L-41 -48 A58 58 0 0 1 -16 -62 L-12 -78 Z
+    "/>
+    <circle r="42" fill="#0a0a0c"/>
+    <circle r="36" stroke="url(#gearGrad)" stroke-width="3" fill="none"/>
+    <text x="0" y="14" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="48" font-weight="900" fill="url(#gGrad)">G</text>
+  </g>
+</svg>
