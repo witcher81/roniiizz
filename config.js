@@ -51,6 +51,5 @@ window.RONIZ_CONFIG = {
       url: "https://www.youtube.com/watch?v=PUCMFtEfyfI",
       brand: "youtube",
     },
-    
   ],
 };
