@@ -13,6 +13,6 @@ window.RONIZ_CONFIG = {
     instagram: "https://www.instagram.com/roniiizz__/",
     discord: "https://discord.gg/3T8FjmZKqY",
     youtube: "https://www.youtube.com/@RoniiiZz",
-    clips: "https://www.youtube.com/@RoniiiZZLive",
+    clips: "https://www.youtube.com/@RoniiiZZLive", // YouTube clips
   },
 };
