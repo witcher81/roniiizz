@@ -29,7 +29,7 @@ window.RONIZ_CONFIG = {
     {
       id: "tiktok",
       label: "TikTok",
-      url: "https://www.tiktok.com/@roniiizz",
+      url: "https://www.tiktok.com/@roniiizzclips",
       brand: "tiktok",
     },
     {
