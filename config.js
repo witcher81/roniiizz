@@ -35,27 +35,22 @@ window.RONIZ_CONFIG = {
     {
       id: "instagram",
       label: "Instagram",
-      url: "https://www.instagram.com/roniiizz",
+      url: "https://www.instagram.com/roniiizz__/",
       brand: "instagram",
       gradientLabel: true,
     },
     {
       id: "discord",
       label: "Discord",
-      url: "https://discord.gg/",
+      url: "https://discord.gg/3T8FjmZKqY",
       brand: "discord",
     },
     {
       id: "youtube",
       label: "YouTube",
-      url: "https://www.youtube.com/@roniiizz",
+      url: "https://www.youtube.com/@RoniiiZZLive",
       brand: "youtube",
     },
-    {
-      id: "twitch",
-      label: "Twitch",
-      url: "https://www.twitch.tv/roniiizz",
-      brand: "twitch",
-    },
+    
   ],
 };
