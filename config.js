@@ -48,7 +48,7 @@ window.RONIZ_CONFIG = {
     {
       id: "youtube",
       label: "YouTube",
-      url: "https://www.youtube.com/@RoniiiZZLive",
+      url: "https://www.youtube.com/watch?v=PUCMFtEfyfI",
       brand: "youtube",
     },
     
