@@ -12,6 +12,6 @@ window.RONIZ_CONFIG = {
     tiktok: "https://www.tiktok.com/@roniiizzclips",
     instagram: "https://www.instagram.com/roniiizz__/",
     discord: "https://discord.gg/3T8FjmZKqY",
-    youtube: "https://www.youtube.com/@RoniiiZZLive",
+    youtube: "https://www.youtube.com/@RoniiiZZLive", // ערוץ קליפים
   },
 };
